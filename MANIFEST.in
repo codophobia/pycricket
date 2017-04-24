@@ -1,0 +1,2 @@
+include pycricket/matches.csv
+recursive-include pycricket/data *.xml
